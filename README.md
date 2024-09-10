@@ -7,7 +7,7 @@ Engineering Student
 Hello there! I'm Sakthi, an ambitious engineering student with a passion for technology and innovation. Currently pursuing B.tech Artificial Intelligence and Data Science, I am dedicated to pushing the boundaries of what's possible in the world of engineering.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [sakthimohang04@gmail.com](mailto:sakthimohang04@gmail.com)
+* ✉️  You can contact me at [sakthimohang04@gmail.com](mailto:sakthi.gm04gmail.com)
 * 🧠  I'm learning Python, JS
 * 🤝  I'm open to collaborating on Application Development
 
